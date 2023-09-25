@@ -1,1 +1,0 @@
-i.	pip install pytest
